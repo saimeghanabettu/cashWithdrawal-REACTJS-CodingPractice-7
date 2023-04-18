@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.button-style {
+  height: 30px;
+  width: 130px;
+  color: #d4d2db;
+  background-color: #382f5a;
+  border-color: #d4d2db;
+  border-radius: 4px;
+  color: #d4d2db;
+  font-family: 'Roboto';
+  font-size: 17px;
+  font-weight: normal;
+  margin: 5px;
+  border-width: 1px;
+  cursor: pointer;
+  outline: none;
+}
